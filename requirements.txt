@@ -1,0 +1,8 @@
+langchain==0.0.173
+openai==0.27.6
+tqdm==4.65.0
+black==23.3.0
+pinecone-client==2.2.1
+beautifulsoup4==4.12.2
+lxml==4.9.2
+unstructured==0.6.8
