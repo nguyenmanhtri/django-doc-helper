@@ -5,7 +5,7 @@ from streamlit_chat import message
 from backend.core import run_llm
 
 
-st.header("LangChain Udemy Course - Documentation Helper Bot")
+st.header("LangChain - Documentation Helper Bot")
 
 
 prompt = st.text_input("Prompt", placeholder="Enter your prompt here...")
